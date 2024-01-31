@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a self-taught newbie programmer with a background in Business and Finance. I find myself increasingly passionate about programming with each step I take into this world. My journey began with Python and GitHub and I plan to explore and learn new programming languages as I continue to enhance my skills.
 
-*   🌍  I'm based in Philadelphia (Go Eagles! <img "https://lisspropertygroup.com/blog/wp-content/uploads/2013/12/wpid-eagles_450.jpg" width="25" height="25")
+*   🌍  I'm based in Philadelphia (Go Eagles!)
 *   ✉️  You can contact me at [olehusofa@hotmail.com](mailto:olehusofa@hotmail.com)
 *   🧠  I'm learning Python basics (Automate the Boring Stuff atm and some personal projects)
 *   🤝  I'm open to collaborating on anything where I can learn new things!
