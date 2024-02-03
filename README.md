@@ -9,5 +9,7 @@ I am a self-taught programmer with a background in Business and Finance. I find 
 *   🤝  I'm open to collaborating on anything where I can learn new things and contribute to what you are doing!
 *   ⛷️  Free time goes into the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time
 
+*   With regard to my background, some of my projects have a strong emphasis on finance. I will strive to provide concise explanations here, reserving more in-depth papers on the topic for my webpage.
+
 *   Actual know-how: Python, GitHub
 *   Additional skills include: Microsoft Office, Google Colab, JupyterLab and WordPress
