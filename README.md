@@ -8,7 +8,6 @@ I am a self-taught programmer with a background in Business and Finance. I find 
 *   🧠  I'm learning Python basics (Automate the Boring Stuff atm) and applying it to some personal projects
 *   🤝  I'm open to collaborating on anything where I can learn new things and contribute to what you are doing!
 *   ⛷️  Free time goes into the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-                    </p>
-                    
+
+*   Actual know-how: Python, GitHub
+*   Additional skills include: Microsoft Office, Google Colab, JupyterLab and WordPress
