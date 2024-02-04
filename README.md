@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleh Sekirkin
+Hello, World! My name is Oleh Sekirkin
 =====================================================================================================================================
 
-I am a self-taught programmer with a background in Business and Finance. I find myself increasingly passionate about programming with each step I take into this world. My journey began with Python and Git and I plan to explore and learn new languages as I continue to enhance my skills.
+<span style="color:#2F2E2C">I am a self-taught programmer with a background in Business and Finance. I find myself increasingly passionate about programming with each step I take into this world. My journey began with Python and Git and I plan to explore and learn new languages as I continue to enhance my skills.</span>
 
 *   🌍  Based in Philadelphia (Go Eagles!)
 *   ✉️  You can contact me at [olehusofa@hotmail.com](mailto:olehusofa@hotmail.com) or any other link on my profile
