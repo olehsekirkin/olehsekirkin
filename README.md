@@ -5,7 +5,7 @@ Hello, World! My name is Oleh Sekirkin
 
 *   🌍  Based in Philadelphia (Go Eagles!)
 *   ✉️  You can contact me at [olehusofa@hotmail.com](mailto:olehusofa@hotmail.com) or any other link on my profile
-*   🧠  I'm learning Python basics (Automate the Boring Stuff atm) and applying it to some personal projects
+*   🧠  I'm learning Python applying it to some personal projects
 *   🤝  I'm open to collaborating on anything where I can learn new things and contribute to what you are doing!
 *   ⛷️  Free time goes into the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time
 
