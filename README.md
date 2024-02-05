@@ -9,7 +9,5 @@ Hello, World! My name is Oleh Sekirkin
 *   🤝  I'm open to collaborating on anything where I can learn new things and contribute to what you are doing!
 *   ⛷️  Free time goes into the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time
 
-*   With regard to my background, some of my projects have a strong emphasis on finance. I will try to provide concise explanations here, reserving more in-depth papers on the topic for my webpage.
-
 *   Actual know-how: Python, Git
 *   Additional skills include: Microsoft Office, Google Colab, JupyterLab and WordPress
