@@ -8,5 +8,5 @@ Hello, World! My name is Oleh Sekirkin
 *   🤝  I'm open to collaborating on anything where I can learn new things and contribute to what you are doing!
 *   ⛷️  Free time goes into the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time
 
-*   Actual know-how: Python, SQL, Git
-*   Additional skills include: Microsoft Office, Google Colab, JupyterLab and WordPress
+*   Actual know-how: Python, SQL
+*   Additional skills include: Microsoft Office, Git, Google Colab, JupyterLab and WordPress
