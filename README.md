@@ -4,7 +4,7 @@
   
  🔭  Currently working on an **Anti-Money Laundering Detection System through Machine Learning**
  
- 👨‍🏫  Currently learning **PowerBI, Azure, even more SQL**
+ 👨‍🏫  Currently learning **PowerBI, AWS, even more SQL**
  
  ⛷️  Free time goes into **the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time**
   
