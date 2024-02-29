@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=3000&pause=1000&color=29F76F&center=true&random=false&width=435&lines=Hello%2C+World!;I'm+Oleh+Sekirkin!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a> </h1>
 <div align="center">
   
- 🔭  Currently working on an **Real Time Anomaly Detection in CCTV Surveillance**
+ 🔭  Currently working on an **Heart Failure Prediction model**
  
  👨‍🏫  Currently learning **PowerBI, AWS, even more SQL**
  
