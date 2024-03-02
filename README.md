@@ -4,7 +4,7 @@
   
  🔭  Currently working on an **Heart Failure Prediction model**
  
- 👨‍🏫  Currently learning **PowerBI, AWS, even more SQL**
+ 👨‍🏫  Currently learning **Power BI, AWS, even more SQL**
  
  ⛷️  Free time goes into **the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time**
   
