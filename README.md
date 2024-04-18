@@ -6,7 +6,7 @@
  
  👨‍🏫  Currently learning **Power BI**
  
- ⛷️  Free time goes into **the gym, hiking, rafting and rewatching Pirates of the Caribbean for the 10th time**
+ ⛷️  Free time goes into **the gym, hiking, kayaking and rewatching Pirates of the Caribbean for the 10th time**
   
   📧 To contact me you can use any of the links on my profile or [olehusofa@hotmail.com](mailto:olehusofa@hotmail.com)
   
